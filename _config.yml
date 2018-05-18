@@ -4,10 +4,10 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: ┄曉.郁児┄
+subtitle: "码上行动"
+description: "┄曉.郁児┄的个人博客"
+keywords: ┄曉.郁児┄, Liu Ling, wheon, liuling
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Liu Ling
+organization: wheon.com
+organization_url: http://www.wheon.com
+github_username: liuling0
+location: Changsha, China
+email: jackie_wenxin@126.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: liuling0/liuling0.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,17 +95,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: liuling0
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: f8308c28a6cfe7ec21cf
+        client_secret: a1d53cae22702e32f3dda0d78c706558e18cd816
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: liuling0
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: f8308c28a6cfe7ec21cf
+    clientSecret: a1d53cae22702e32f3dda0d78c706558e18cd816
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
